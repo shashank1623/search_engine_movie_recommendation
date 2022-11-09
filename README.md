@@ -42,8 +42,9 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 ![70401457-a7530680-1a55-11ea-9158-97d4e8515ca4](https://user-images.githubusercontent.com/86946068/200774400-73ef61f3-6b7b-4811-ae48-22fa9d93cea4.png)
 
-More about Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
-Sources of the datasets
+More about Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/ <br/>
+
+#### Sources of the datasets
 1. https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 2. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 3. https://en.wikipedia.org/wiki/List_of_American_films_of_2018
